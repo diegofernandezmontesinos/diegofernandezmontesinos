@@ -4,7 +4,7 @@ I am a Full Stack Web junior with a lot of motivation to enter in this IT world.
 
 However, I do not have any problem to changes my self and work in others areas.
 
-###Where to find me
+#### Where to find me
 
--[LinkedIn](https://www.linkedin.com/in/diego-fernandez-montesinos/)
+- [LinkedIn](https://www.linkedin.com/in/diego-fernandez-montesinos/)
 
