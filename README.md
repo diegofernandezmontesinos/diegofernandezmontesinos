@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-I am a Full Stack Web junior with a lot of motivation to enter in this IT world. I have a lot of financial and real estates knowledges, so I am looking to work with a real estate webside company or a bank.
-
-However, I do not have any problem to changes my self and work in others areas.
-
-#### Where to find me
-
+This is my personal repo, where I upload code every so often. I hope you like the repos and if you want to copy it, go ahead.
 - [LinkedIn](https://www.linkedin.com/in/diego-fernandez-montesinos/)
 
